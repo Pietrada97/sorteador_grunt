@@ -78,7 +78,7 @@ module.exports = function(grunt) {
                     collapseWhitespace: true
                 },
                 files: {
-                    'prebuild/index.html':'src/scripts/main.js'
+                    'prebuild/index.html':'src/index.html'
                 }
             }
         },
